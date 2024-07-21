@@ -1,0 +1,13 @@
+.active {
+    color: red;
+}
+
+.active:hover {
+    text-decoration: underline;
+    text-decoration-color: gray;
+}
+
+.notActive:hover {
+    text-decoration: underline;
+} 
+
